@@ -1,18 +1,14 @@
 ## Hi there 👋
+👋 Hi there! I'm Carlos Manuel
+🎓 I'm currently a student at the Instituto Tecnológico de Las Américas (ITLA), pursuing a degree in Software Development. Passionate about coding and eager to contribute to the tech community, I'm constantly learning and improving my skills.
 
-<!--
-**CarlosPerezGzz/CarlosPerezGzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My toolkit includes:
 
-Here are some ideas to get you started:
+Programming Languages:
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Productivity Tools: [![My Skills](https://skillicons.dev/icons?i=notion,figma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+🛠️ I enjoy working on diverse projects and finding creative solutions to challenging problems. My journey in software development is driven by curiosity and a desire to make a positive impact through technology.
+
+🌱 I'm always open to learning new things and collaborating on exciting projects. Let's connect and create something amazing together!
